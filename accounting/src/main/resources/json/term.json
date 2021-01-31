@@ -1,0 +1,32 @@
+[
+        {
+            "id": "1",
+            "name": "Net 30",
+            "longetivity": "30"
+        },
+        {
+            "id": "2",
+            "name": "Net 60",
+            "longetivity": "60"
+        },
+        {
+            "id": "3",
+            "name": "Cash On Delivery",
+            "longetivity": "0"
+        },
+        {
+            "id": "4",
+            "name": "Net 15",
+            "longetivity": "15"
+        },
+        {
+            "id": "5",
+            "name": "Custom",
+            "longetivity": "0"
+        },
+        {
+            "id": "6",
+            "name": "Net 20",
+            "longetivity": "20"
+        }
+    ]

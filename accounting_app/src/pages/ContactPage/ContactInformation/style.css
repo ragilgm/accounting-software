@@ -1,0 +1,12 @@
+.contact-info-body ul li{
+   width: 150px !important;
+   text-align: center;
+   font-size: 15px;
+}
+.contact-info-body ul li:hover{
+   border-top: 2px solid green;
+}
+
+.contact-info-body ul li a{
+  color: black !important;
+}

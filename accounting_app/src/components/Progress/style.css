@@ -1,0 +1,19 @@
+
+.MuiStepLabel-iconContainer{
+   color: red !important;
+} 
+.MuiStepLabel-alternativeLabel{
+  color: green;
+}
+
+/* .MuiStepIcon-root{
+   background-color: red;
+} */
+
+.MuiStepIcon-active {
+   color: green !important;
+}
+
+.MuiStepIcon-completed {
+   color: green !important;
+}

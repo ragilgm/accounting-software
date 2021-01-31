@@ -1,0 +1,402 @@
+body {
+   background-color: #d9d9d9;
+}
+
+a {
+   color: black !important;
+}
+
+.btn-link {
+   color: white !important;
+}
+
+.MuiButton-label{
+   color: white !important;
+}
+
+#aktif {
+   color: #595959 !important;
+   font-weight: bold;
+}
+
+ 
+
+ 
+.css
+
+
+input {
+   background-color: #d9d9d9 !important;
+}
+select {
+   background-color: #d9d9d9 !important;
+}
+
+button {
+   background-color: #595959 !important;
+   margin : 2px !important
+}
+
+
+
+.input-button {
+   background-color: #595959 !important;
+}
+
+.nav-link.active {
+   background-color: #595959 !important;
+   color: white !important;
+ }
+
+
+
+ 
+.MuiListItemText-primary{
+   color: white !important;
+}
+
+#aktif{
+   color: white !important;
+   background-color: #b5b1b1 !important;
+}
+
+textarea {
+   background-color: #d9d9d9 !important;
+   border: 1px solid rgba(0, 0, 0, 0.3) !important;
+}
+
+.MuiPaper-root {
+   background-color: #595959 !important;
+   color: white !important;
+}
+
+.MuiTypography-root{
+   color: white !important;
+}
+.MuiTablePagination-caption{
+   color: white !important;
+} 
+
+.MuiTypography-body2{
+   color: white !important;
+} 
+
+.MuiTypography-colorInherit{
+   color: white !important;
+}
+
+th {
+   background-color: #616161 !important;
+   font-weight: bold !important;
+   color: white !important;
+}
+
+td {
+   background-color: white !important;
+   color: black !important;
+}
+
+table {
+   background-color: #b5b1b1 !important;
+}
+
+option {
+   background-color: #d9d9d9 !important;
+}
+
+.card {
+   background-color: #d9d9d9 !important;
+}
+
+label{
+   color: #595959 !important;
+}
+
+.MuiFormLabel-root {
+   color: #595959 !important;
+}
+
+button:hover {
+   background-color: red !important;
+}
+
+.MuiDialogTitle-root{
+   background-color: #d9d9d9 !important;
+}
+
+
+.nav-link {
+   font-weight: bold !important;
+}
+
+.must-paid {
+   color: #595959 !important;
+}
+
+.must-receipt {
+   color: #595959 !important;
+}
+
+
+.MuiDialogContent-root{
+   background-color: #d9d9d9 !important;
+}
+
+
+
+.MuiTypography-h6 {
+   color: #595959 !important;
+}
+li {
+   color: #595959 !important;
+}
+
+ .btn-link {
+   background-color: #635e5e !important;
+}
+
+a{
+   font-weight: bold !important;
+}
+
+.logo img{
+   max-height: 50px;
+   max-width: 100%;
+   margin-top: -4rem;
+   margin-left: 3rem;
+}
+
+
+.button {
+   font-weight: bold !important;
+   background-color: #595959 !important;
+   color: white !important;
+}
+
+.menu-logout{
+   color: black !important;
+   background-color: greenyellow !important;
+}
+.MuiListItemText-primary {
+   font-size: 12px !important;
+}
+
+.MuiList-root {
+   padding : 0 !important
+}
+ .MuiList-padding {
+    padding: 0px !important;
+ }
+
+.content {
+   min-height: 100vh;
+   max-width: 100vw;
+}
+
+
+.fa-file-alt{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+.fa-university{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+.fa-home{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+
+.fa-university{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+.fa-dollar-sign{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+
+.fa-shopping-basket{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+
+.fa-credit-card{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+.fa-address-book{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+
+.fa-product-hunt{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+
+.fa-building{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+.fa-list-alt{
+   font-size: 12px;
+   font-weight: bold;
+   color: white !important;
+}
+
+
+input {
+   font-size: 12px !important;
+   border: none !important;
+   border-bottom: 1px solid grey !important;
+}
+select {
+   font-size: 12px !important;
+   border: none !important;
+   border-bottom: 1px solid grey !important;
+}
+
+
+input:focus, a:focus
+{
+         outline: none;
+}
+.navbar-toggler:focus
+{
+         outline: none !important;
+         box-shadow: none;
+}
+
+textarea:focus, 
+textarea.form-control:focus, 
+input.form-control:focus, 
+input[type=text]:focus, 
+input[type=password]:focus, 
+input[type=email]:focus, 
+input[type=number]:focus, 
+[type=text].form-control:focus, 
+[type=password].form-control:focus, 
+[type=email].form-control:focus, 
+[type=tel].form-control:focus, 
+select:focus,
+select.form-control,:focus,
+.custom-select:focus
+[contenteditable].form-control:focus {
+  box-shadow: inset 0 -1px 0 #ddd;
+}
+
+.form-control
+
+.css-1pahdxg-control {
+   width: 100% !important;
+   border: none !important;
+   outline: none !important;
+   font-size: 12px;
+}
+
+
+.css-2b097c-container {
+   width: 100% !important;
+   border: none !important;
+   outline: none !important;
+   font-size: 12px;
+   border: 10x solid black
+}
+
+.register{
+   position: relative;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   margin-top: 1rem;
+   font-weight: bold;
+   border-bottom: 1px solid;
+   margin-top: -2rem;
+ 
+ }
+ 
+ 
+ .register-wrapper {
+   position: relative;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   margin-top: 1rem;
+   font-weight: bold;
+   margin-top: 5rem;
+ }
+ 
+ .select-company{
+   min-width: 100% !important;
+   margin-top: 1.5rem !important;
+ }
+
+ 
+ .table-data:hover{
+   background-color: #595959 !important;
+ }
+ 
+ 
+ button:hover{
+   background-color: #595959 !important;
+ }
+ button{
+   outline: none !important;
+ }
+ 
+ .total {
+   background-color: #595959;
+   height: 20px;
+   width: 20px;
+   text-align: center;
+   color: white;
+   margin-left: 2rem;
+ }
+
+
+
+   .line {
+      border-bottom: 1px solid #595959;
+      margin-top: 0.5rem;
+   }
+
+   .title-box {
+      font-weight: bold;
+   }
+
+   tr:hover {
+      background:#e2e3d1 ;
+   }
+
+   .css-yk16xz-control{
+      background-color: #d9d9d9 !important;
+      border: none;
+      outline: none;
+      border-bottom: 1px solid black;
+    }
+
+    .css-1pahdxg-control {
+      background-color: #d9d9d9 !important;
+      border: none;
+      outline: none;
+ 
+      outline: none !important;
+      border: none ;
+      border-bottom: 1px solid black;
+      box-shadow: inset 0 -1px 0 #ddd !important;
+    }
+
+   .form-control {
+      background-color: #d9d9d9 !important;
+   }

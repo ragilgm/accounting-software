@@ -1,0 +1,38 @@
+.pdf {
+  max-width: 80vw;
+  margin-left: 5rem;
+  margin-top: 5rem;
+  padding: 2rem !important;
+}
+
+.table-head {
+  background-color: grey;
+}
+
+.line-invoice {
+  border-bottom: 2px solid grey;
+  color: grey !important;
+  width: 100% !important
+  
+}
+
+
+.maker {
+  border: 1px solid black !important;
+  width: 25%;
+}
+
+
+.maker-signature{
+  border: 1px solid black !important;
+  width: 25%;
+  height: 8rem;
+}
+
+.action-print {
+  position: relative;
+display: inline;
+justify-content: center;
+align-items: center !important;
+  margin: auto;
+}

@@ -1,0 +1,38 @@
+.logo-company img{
+  height: 250px;
+  height: 150px;
+display: flex;
+justify-content: center;
+margin: auto;
+}
+
+.menu{
+ justify-content: center;
+ margin: auto;
+ display: flex;
+ position: relative;
+ margin: auto !important;
+ margin-top: -5rem !important;
+}
+
+
+.login{
+  justify-content: center;
+  margin: auto;
+  display: flex;
+  position: relative;
+  margin: auto !important;
+ }
+
+ .logo-company img{
+   max-height: 100px;
+   position: relative;
+   margin-top: 2rem;
+ }
+
+
+ .menu-company{
+  min-width: 300px !important;
+  max-width: 80vw;
+  margin-top: 1.5rem !important;
+}

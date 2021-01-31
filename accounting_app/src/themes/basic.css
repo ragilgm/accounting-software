@@ -1,0 +1,272 @@
+
+
+#aktif {
+   font-weight: bold;
+   background: linear-gradient(to top, #00d3ff, #52dfed, #85e8de, #b0f0d5, #d5f6d6) !important;
+}
+
+.must-paid {
+   color: #595959 !important;
+}
+
+.must-receipt {
+   color: #595959 !important;
+}
+
+
+.logo img{
+   max-height: 50px;
+   max-width: 100%;
+   margin-top: -4rem;
+   margin-left: 3rem;
+}
+
+.menu-logout{
+   color: black !important;
+   background-color: greenyellow !important;
+}
+.MuiListItemText-primary {
+   font-size: 12px !important;
+}
+
+.content {
+   min-height: 100vh;
+   max-width: 100vw;
+}
+
+.fa-file-alt{
+   font-size: 12px;
+   font-weight: bold;
+}
+.fa-university{
+   font-size: 12px;
+   font-weight: bold;
+}
+.fa-home{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.fa-university{
+   font-size: 12px;
+   font-weight: bold;
+}
+.fa-dollar-sign{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.fa-shopping-basket{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.fa-credit-card{
+   font-size: 12px;
+   font-weight: bold;
+}
+.fa-address-book{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.fa-product-hunt{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.fa-building{
+   font-size: 12px;
+   font-weight: bold;
+}
+.fa-list-alt{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+input {
+   font-size: 12px !important;
+   border: none !important;
+   border-bottom: 1px solid grey !important;
+}
+select {
+   font-size: 12px !important;
+   border: none !important;
+   border-bottom: 1px solid grey !important;
+}
+
+input:focus, a:focus
+{
+         outline: none;
+}
+.navbar-toggler:focus
+{
+         outline: none !important;
+         box-shadow: none;
+}
+
+textarea:focus, 
+textarea.form-control:focus, 
+input.form-control:focus, 
+input[type=text]:focus, 
+input[type=password]:focus, 
+input[type=email]:focus, 
+input[type=number]:focus, 
+[type=text].form-control:focus, 
+[type=password].form-control:focus, 
+[type=email].form-control:focus, 
+[type=tel].form-control:focus, 
+select:focus,
+select.form-control,:focus,
+.custom-select:focus
+[contenteditable].form-control:focus {
+  box-shadow: inset 0 -1px 0 #ddd;
+}
+
+.css-1pahdxg-control {
+   width: 100% !important;
+   border: none !important;
+   outline: none !important;
+   font-size: 12px;
+}
+
+
+.css-2b097c-container {
+   width: 100% !important;
+   border: none !important;
+   outline: none !important;
+   font-size: 12px;
+   border: 10x solid black
+}
+
+.register{
+   position: relative;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   margin-top: 1rem;
+   font-weight: bold;
+   border-bottom: 1px solid;
+   margin-top: -2rem;
+ 
+ }
+ 
+
+ .register-wrapper {
+   position: relative;
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   margin-top: 1rem;
+   font-weight: bold;
+   margin-top: 5rem;
+ }
+ 
+ .select-company{
+   min-width: 100% !important;
+   margin-top: 1.5rem !important;
+ }
+ 
+ 
+ .table-data:hover{
+   background-color: #99d6ff !important;
+ }
+ 
+ 
+ button:hover{
+   background-color: #99d6ff !important;
+ }
+ button{
+   outline: none !important;
+ }
+
+.MuiToolbar-root {
+   background: linear-gradient(to bottom, #1600ff, #0033ff, #004bff, #005dfe, #006df9);
+}
+
+table
+
+.MuiDialogTitle-root {
+   background: linear-gradient(to top, #00d3ff, #52dfed, #85e8de, #b0f0d5, #d5f6d6) !important;
+}
+
+.MuiDialogContent-root{
+   background: linear-gradient(to top, #00d3ff, #52dfed, #85e8de, #b0f0d5, #d5f6d6) !important;
+
+}
+
+.MuiPaper-root{
+   background:#00d3ff !important;
+}
+
+.MuiList-root {
+   background:#00d3ff !important;
+}
+table {
+  background-color: white;
+
+}
+td {
+  background-color: white;
+
+}
+
+tr {
+       padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+
+th{
+   background: linear-gradient(to bottom, #1600ff, #0033ff, #004bff, #005dfe, #006df9);
+   color: white !important;
+}
+ 
+.nav-link.active {
+   background: linear-gradient(to bottom, #1600ff, #0033ff, #004bff, #005dfe, #006df9) !important;
+   color: white !important;
+ }
+
+ .nav-link {
+   font-weight: bold !important;
+ }
+
+ button {
+    font-weight: bold !important;
+ }
+
+
+ .box {
+   border: 1px solid #595959;
+   padding: 1rem;
+   display: flex;
+  justify-content: center;
+  border-radius: .5rem;
+  margin: 1rem;
+  }
+
+  .css-yk16xz-control{
+   background-color: #AFFFFF !important;
+   border: none;
+   outline: none;
+   border-bottom: 1px solid black;
+ }
+
+ .css-1pahdxg-control {
+   background-color: #AFFFFF !important;
+   outline: none !important;
+   border-bottom: 1px solid rgba(0, 0, 0, 0.5) !important;
+   box-shadow: inset 0 -1px 0 #ddd !important;
+ }
+
+.form-control {
+   background-color: #AFFFFF !important;
+}
+
+textarea {
+   border:1px solid rgba(0, 0, 0, 0.5) !important
+}
+
+body {
+   background-color: #AFFFFF !important;
+}

@@ -1,0 +1,38 @@
+
+.title-item h3{
+   padding: .5rem !important;
+}
+
+.menu{
+   margin-top:2rem !important;
+   margin-bottom:1rem !important;
+   display: flex;
+   flex-direction: row-reverse;
+   max-width: 100vw !important;
+}
+.menu button{
+   margin-left: 1rem;
+   background-color: green;
+}
+
+th {
+   font-weight: bold !important;
+}
+
+.card {
+   padding: 1.5rem;
+   -webkit-box-shadow: 1px 1px 3px 1px #006600; 
+   -moz-box-shadow:    1px 1px 3px 1px #006600;  
+   box-shadow:         1px 1px 3px 1px #006600; 
+   border-radius: .5rem;
+}
+
+.fa-eye {
+   color:#006600
+}
+.fa-edit {
+   color:blue
+}
+.fa-trash {
+   color:red
+}

@@ -1,0 +1,70 @@
+[
+        {
+            "category_number": "1",
+            "category_name": "Accounts Receivable (A/R)"
+        },
+        {
+            "category_number": "2",
+            "category_name": "Other Current Assets"
+        },
+        {
+            "category_number": "3",
+            "category_name": "Cash & Bank"
+        },
+        {
+            "category_number": "4",
+            "category_name": "Inventory"
+        },
+        {
+            "category_number": "5",
+            "category_name": "Fixed Assets"
+        },
+        {
+            "category_number": "6",
+            "category_name": "Other Assets"
+        },
+        {
+            "category_number": "7",
+            "category_name": "Depreciation & Amortization"
+        },
+        {
+            "category_number": "8",
+            "category_name": "Accounts Payable (A/P)"
+        },
+        {
+            "category_number": "9",
+            "category_name": "Credit Card"
+        },
+        {
+            "category_number": "10",
+            "category_name": "Other Current Liabilities"
+        },
+        {
+            "category_number": "11",
+            "category_name": "Long Term Liabilities"
+        },
+        {
+            "category_number": "12",
+            "category_name": "Equity"
+        },
+        {
+            "category_number": "13",
+            "category_name": "Income"
+        },
+        {
+            "category_number": "14",
+            "category_name": "Other Income"
+        },
+        {
+            "category_number": "15",
+            "category_name": "Cost of Sales"
+        },
+        {
+            "category_number": "16",
+            "category_name": "Expenses"
+        },
+        {
+            "category_number": "17",
+            "category_name": "Other Expense"
+        }
+    ]

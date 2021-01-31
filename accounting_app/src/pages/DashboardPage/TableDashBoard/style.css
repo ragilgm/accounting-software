@@ -1,0 +1,21 @@
+.MuiPaper-root {
+   color: white !important;
+}
+
+.MuiToolbar-root {
+   color: white !important;
+   background-color: yellow ;
+}
+
+.MuiSvgIcon-root {
+   color: black !important;
+}
+
+
+.Mui-selected{
+   background-color: rgba(0,255,0,0.3) !important
+}
+
+.MuiTypography-root .MuiTablePagination-caption .MuiTypography-body2 .MuiTypography-colorInherit{
+   color: white !important;
+}

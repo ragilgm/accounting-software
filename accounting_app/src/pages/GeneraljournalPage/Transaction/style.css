@@ -1,0 +1,28 @@
+.table-head {
+   background-color: green;
+}
+
+.table-row {
+   color: white;
+}
+
+.table-data-header {
+   color: white !important;
+   padding-top: 1rem !important;
+   padding-bottom: 1rem !important;
+}
+
+.row-total{
+   height: 5rem;
+   margin-top: 5 !important;
+   bottom: 0 !important;
+}
+
+.row-detail {
+   margin-top: 3rem !important;
+   background-color: ;
+}
+
+.header-invoice{
+   width: 100vw !important;
+}
